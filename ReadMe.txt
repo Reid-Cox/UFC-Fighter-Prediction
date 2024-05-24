@@ -5,3 +5,5 @@ etc. Using Google Colab, we conducted this analysis and tested the performance o
 metrics against a testing and training dataset. 
 
 Keywords: UFC, Multiple Linear Regression, Fighting Performance, Career Athlete Performance
+
+Please read, see the following code and dataset for results and code.
